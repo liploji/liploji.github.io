@@ -211,6 +211,8 @@ sup {
 a {
   color: #a4133c; 
   text-decoration: underline;
+  target:  "_blank"; 
+  rel:  "noopener noreferrer";
 }
 a:hover {
   color: #a13856;
