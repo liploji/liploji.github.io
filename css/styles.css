@@ -213,7 +213,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #a13856;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -10964,7 +10964,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #a4133c;
 }
 
 .dev-icons {
